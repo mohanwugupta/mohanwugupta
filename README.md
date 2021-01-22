@@ -71,7 +71,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mohanwugupta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohanwugupta&show_icons=true&theme=cobalt" />
+  <img align="left" alt="mohanwugupta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohanwugupta&show_icons=true&theme=cobalt&hide=contribs,prs&count_private=true" />
 </details>
 
 [website]: https://www.mohanwugupta.com/post/
