@@ -9,9 +9,9 @@
 - ⚡ Fun fact: I'm a music producer, and I mix and master music in my free time 
 - still testing
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="mohanwugupta Spotify Playing" width="350" />](https://open.spotify.com/user/124816350)
+<!-- ### Spotify Playing 🎧 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="mohanwugupta Spotify Playing" width="350" />](https://open.spotify.com/user/124816350) -->
+
 
 ### Connect with me:
 
