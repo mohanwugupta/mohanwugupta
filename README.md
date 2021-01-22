@@ -1,7 +1,6 @@
 ### Hi there, I'm [Mohan][website] 👋
 
 [![Website](https://img.shields.io/website?label=mohanwugupta.com&style=for-the-badge&url=https%3A%2F%2Fmohanwugupta.com)](https://www.mohanwugupta.com/)
-[![Instagram Follow](https://img.shields.io/instagram/follow/wugupta?color=1DA1F2&logo=instagram&style=for-the-badge)](https://www.instagram.com/wugupta/)
 
 ## I'm a second year PhD student at UCSD investigating learning and memory
 
@@ -74,8 +73,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mohanwugupta's GitHub Stats" src="https://github-readme-stats.mohanwugupta.vercel.app/api?username=mohanwugupta&show_icons=true&hide_border=true" />
-
+  <img align="left" alt="mohanwugupta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohanwugupta&show_icons=true&theme=cobalt" />
 </details>
 
 [website]: https://www.mohanwugupta.com/post/
