@@ -10,7 +10,7 @@
 
 <!-- ### Spotify Playing 🎧 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="mohanwugupta Spotify Playing" width="350" />](https://open.spotify.com/user/124816350) -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=124816350&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=124816350&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=124816350&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=124816350&redirect=true)
 
 ### Connect with me:
 
