@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Awesome Micro-Interaction Input Character Limit Counter | HTML, CSS, JavaScript (2021)](https://www.youtube.com/watch?v=Byx1Gc3xTD8)
-- [STACKr News 2021 (January Week 2) | Top Web Dev Videos You NEED to Watch!](https://www.youtube.com/watch?v=RCIyQZp-THc)
-- [Resume Tips | How To Pass Application Tracking Systems (ATS) & Get Interviews (Software Developers)](https://www.youtube.com/watch?v=LaWubpSqiPk)
-- [STACKr News 2021 (January Week 1) | Top Web Dev Videos You NEED to Watch!](https://www.youtube.com/watch?v=cCdYYYaJhWg)
-- [Fancy Burger Menu Button - Animated CSS Effects (2021)](https://www.youtube.com/watch?v=6HS8owNMCb4)
+- [The Testing Effect](https://www.youtube.com/watch?v=A-k2lbc401E)
+- [DWI Intro 1](https://www.youtube.com/watch?v=3t_XbUWBArg)
+- [Machine Learning for Neuroimagers: Controlling for Confounds](https://www.youtube.com/watch?v=uEM9SUm2PBY)
+- [Principal Components Analysis for Neuroimagers](https://www.youtube.com/watch?v=2sm62hb3_Cg)
+- [Machine Learning for Neuroimagers Stacking Models 10](https://www.youtube.com/watch?v=-WJuGu9EDvI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCEdMuPFqjP34pJe9RwJwOhA)
