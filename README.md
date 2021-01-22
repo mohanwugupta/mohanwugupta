@@ -7,6 +7,7 @@
 
 - 👯 I’m always looking to collaborate with other researchers or companies
 - ⚡ Fun fact: I'm a music producer, and I mix and master music in my free time 
+- still testing
 
 ### Spotify Playing 🎧
 
