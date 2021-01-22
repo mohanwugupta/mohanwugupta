@@ -1,7 +1,7 @@
 ### Hi there, I'm [Mohan][website] 👋
 
 [![Website](https://img.shields.io/website?label=mohanwugupta.com&style=for-the-badge&url=https%3A%2F%2Fmohanwugupta.com)](https://www.mohanwugupta.com/)
-[![Instagram Follow](https://img.shields.io/twitter/follow/wugupta?color=1DA1F2&logo=instagram&style=for-the-badge)](https://www.instagram.com/wugupta/)
+[![Instagram Follow](https://img.shields.io/instagram/follow/wugupta?color=1DA1F2&logo=instagram&style=for-the-badge)](https://www.instagram.com/wugupta/)
 
 ## I'm a second year PhD student at UCSD investigating learning and memory
 
@@ -32,7 +32,9 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <br />
 <br />
 
