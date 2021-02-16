@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [UCSD Grad Slam 2021: Testing Your Learning Potential](https://www.youtube.com/watch?v=WmSNjTTj75k)
 - [The Testing Effect](https://www.youtube.com/watch?v=A-k2lbc401E)
 - [DWI Intro 1](https://www.youtube.com/watch?v=3t_XbUWBArg)
 - [Machine Learning for Neuroimagers: Controlling for Confounds](https://www.youtube.com/watch?v=uEM9SUm2PBY)
 - [Principal Components Analysis for Neuroimagers](https://www.youtube.com/watch?v=2sm62hb3_Cg)
-- [Machine Learning for Neuroimagers Stacking Models 10](https://www.youtube.com/watch?v=-WJuGu9EDvI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCEdMuPFqjP34pJe9RwJwOhA)
