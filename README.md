@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=mohanwugupta.com&style=for-the-badge&url=https%3A%2F%2Fmohanwugupta.com)](https://www.mohanwugupta.com/)
 
-## I'm a second year PhD student at UCSD investigating learning and memory
+## I'm a third year PhD student at UCSD investigating learning and memory
 
 - 👯 I’m always looking to collaborate with other researchers or companies
 - ⚡ Fun fact: I'm a music producer, and I mix and master music in my free time 
