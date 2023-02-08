@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=mohanwugupta.com&style=for-the-badge&url=https%3A%2F%2Fmohanwugupta.com)](https://www.mohanwugupta.com/)
 
 ## I'm a fourth year PhD student at UCSD investigating learning and memory. 
-## I've created a startup for those who want to learn to play digital instruments: www.midiscale.com
+## I've created a startup for those who want to learn to play the piano: www.midiscale.com
 
 - 👯 I’m always looking to collaborate with other researchers or companies
 - ⚡ Fun fact: I'm a music producer, and I mix and master music in my free time 
