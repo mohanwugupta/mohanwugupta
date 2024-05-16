@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=mohanwugupta.com&style=for-the-badge&url=https%3A%2F%2Fmohanwugupta.com)](https://www.mohanwugupta.com/)
 
-## I'm a fifth year PhD student at UCSD investigating learning and memory. 
+## I'm a postdoc at Princeton investigating motor skill learning and music cognition. 
 ## I've created a startup for those who want to learn to play the piano: www.midiscale.com
 
 - 👯 I’m always looking to collaborate with other researchers or companies
